@@ -18,5 +18,5 @@ As a workaround, clipper is configured to clip "relavant" coupons, so you would 
 
 Let me know, how this works for you, or any suggessions are welcome.
 
-Source code is uploaded for you reference
-I used (Bookmarklet Generator)[http://mrcoles.com/bookmarklet/].
+Source code is also uploaded for you reference.
+I used [Bookmarklet Generator](http://mrcoles.com/bookmarklet/]).
